@@ -1,0 +1,24 @@
+{
+  "name": "moamen-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": { 
+"start": "http-server . -p 8080" 
+} ,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momen7x/moamen-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/momen7x/moamen-repo/issues"
+  },
+  "homepage": "https://github.com/momen7x/moamen-repo#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
